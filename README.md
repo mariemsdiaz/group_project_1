@@ -225,7 +225,7 @@ The data shows a positive trend in the adoption of electric vehicles in washingt
 
 Source: 1. https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county
        2.  https://ecology.wa.gov/blog/april-2024/a-record-year-for-electric-vehicles-and-plug-in-hybrids-in-washington#:~:text=Digging%20into%20the%20data,up%20from%2013%25%20in%202022
-        3. ChatGpt
+        
 
 
 
